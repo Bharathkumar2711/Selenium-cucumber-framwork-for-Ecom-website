@@ -2,12 +2,20 @@
 
 ## How to run
 ```bash
+mvn clean test
+```
+
+
+## How to run (Headless)
+```bash
 mvn test -Dheadless=true -Dcucumber.filter.tags=@smoke
 ```
 or run all scenarios:
 ```bash
 mvn test -Dheadless=true
 ```
+
+
 
 ## Structure
 - `src/test/java/com/saucedemo/core` – WebDriver setup and base utilities
