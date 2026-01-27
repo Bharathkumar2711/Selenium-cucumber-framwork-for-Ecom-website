@@ -1,0 +1,7 @@
+com\saucedemo\core\DriverFactory.class
+com\saucedemo\pages\LoginPage.class
+com\saucedemo\pages\InventoryPage.class
+com\saucedemo\core\BasePage.class
+com\saucedemo\steps\Hooks.class
+com\saucedemo\steps\SaucedemoSteps.class
+com\saucedemo\runners\CucumberTestRunner.class
