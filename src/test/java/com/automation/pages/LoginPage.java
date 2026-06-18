@@ -1,6 +1,6 @@
-package com.saucedemo.pages;
+package com.automation.pages;
 
-import com.saucedemo.core.BasePage;
+import com.automation.core.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 

@@ -1,6 +1,6 @@
-package com.saucedemo.steps;
+package com.automation.steps;
 
-import com.saucedemo.core.DriverFactory;
+import com.automation.core.DriverFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import org.openqa.selenium.WebDriver;

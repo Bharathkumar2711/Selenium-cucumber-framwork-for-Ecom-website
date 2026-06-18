@@ -1,11 +1,8 @@
-package com.saucedemo.pages;
+package com.automation.pages;
 
-import com.saucedemo.core.BasePage;
+import com.automation.core.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.FindBys;
 
 public class InventoryPage extends BasePage {
 

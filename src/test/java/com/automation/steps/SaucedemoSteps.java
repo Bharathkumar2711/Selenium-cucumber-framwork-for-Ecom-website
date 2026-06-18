@@ -1,7 +1,7 @@
-package com.saucedemo.steps;
+package com.automation.steps;
 
-import com.saucedemo.core.DriverFactory;
-import com.saucedemo.pages.*;
+import com.automation.core.DriverFactory;
+import com.automation.pages.*;
 import io.cucumber.java.en.*;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;

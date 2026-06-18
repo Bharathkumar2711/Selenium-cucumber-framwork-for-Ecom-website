@@ -1,4 +1,4 @@
-# Saucedemo Automation (Cucumber + TestNG + Selenium)
+# Automation framwork sample (Cucumber + TestNG + Selenium)
 
 ## How to run
 ```bash
