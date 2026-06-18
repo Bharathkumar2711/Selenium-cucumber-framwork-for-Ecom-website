@@ -7,7 +7,8 @@ import org.testng.annotations.DataProvider;
 @CucumberOptions(
     features = "src/test/resources/features",
     glue = {"com.saucedemo.steps"},
-    plugin = {"pretty", "summary"},
+    plugin = {"timeline:reports", "json:target/Results/cucumber.json", "rerun:FailedTestCases/failed.txt",
+            "pretty"},
     monochrome = true
 )
 public class CucumberTestRunner extends AbstractTestNGCucumberTests {
